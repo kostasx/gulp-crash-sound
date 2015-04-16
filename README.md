@@ -1,3 +1,5 @@
+[![npm downloads per month](http://img.shields.io/npm/dm/gulp-crash-sound.svg)](https://www.npmjs.org/package/gulp-crash-sound)
+
 gulp-crash-sound
 ========
 
